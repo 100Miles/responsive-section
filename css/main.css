@@ -25,7 +25,7 @@ html {
 }
 
 section {
-  vertical-align: middle;
+  background-color: #e5c30a;
 }
 
 body {
@@ -66,8 +66,8 @@ section p {
 
 .wrapper {
   padding-top: 1.5rem;
-  margin: auto;
-  max-width: 850px;
+  margin: 0 auto;
+  max-width: 45em;
 }
 
 @media only screen and (min-width: 25em) {
